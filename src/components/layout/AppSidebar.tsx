@@ -44,10 +44,7 @@ export function AppSidebar() {
     >
       {/* Logo area */}
       <div className="flex items-center gap-3 px-4 py-5 border-b border-sidebar-border">
-        <div
-          className="w-9 h-9 rounded-full flex items-center justify-center"
-          style={{ backgroundImage: "linear-gradient(135deg, #fdfdfd 0%, #d9d9d9 40%, #b0b0b0 100%)" }}
-        >
+        <div className="w-9 h-9 rounded-full bg-white flex items-center justify-center shadow">
           <img src="/stratus-logo.png" alt="Stratus Logo" className="w-6 h-6 object-contain" />
         </div>
         {!collapsed && (
