@@ -31,8 +31,8 @@ const Login = () => {
       <div className="w-full max-w-md">
         {/* Logo */}
         <div className="flex flex-col items-center mb-8">
-          <div className="w-14 h-14 rounded-2xl bg-primary flex items-center justify-center mb-4">
-            <Building2 className="w-8 h-8 text-accent" />
+          <div className="w-16 h-16 rounded-full bg-white flex items-center justify-center mb-4 shadow">
+            <img src="/stratus-logo.png" alt="Stratus" className="w-10 h-10 object-contain" />
           </div>
           <h1 className="text-2xl font-semibold text-foreground">Stratus Properties CRM</h1>
           <p className="text-sm text-muted-foreground mt-1">Sign in to your account</p>
