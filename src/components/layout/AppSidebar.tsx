@@ -49,7 +49,7 @@ export function AppSidebar() {
         </div>
         {!collapsed && (
           <span className="text-primary-foreground font-semibold text-lg tracking-tight">
-            Emarosh CRM
+            Stratus Properties
           </span>
         )}
       </div>

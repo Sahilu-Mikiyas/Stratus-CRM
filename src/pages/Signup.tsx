@@ -47,7 +47,7 @@ const Signup = () => {
             <Building2 className="w-8 h-8 text-accent" />
           </div>
           <h1 className="text-2xl font-semibold text-foreground">Create Account</h1>
-          <p className="text-sm text-muted-foreground mt-1">Join the Emarosh CRM team</p>
+          <p className="text-sm text-muted-foreground mt-1">Join the Stratus Properties team</p>
         </div>
 
         <form onSubmit={handleSignup} className="bg-card rounded-2xl p-6 shadow-card space-y-5">

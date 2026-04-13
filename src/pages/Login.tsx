@@ -34,7 +34,7 @@ const Login = () => {
           <div className="w-14 h-14 rounded-2xl bg-primary flex items-center justify-center mb-4">
             <Building2 className="w-8 h-8 text-accent" />
           </div>
-          <h1 className="text-2xl font-semibold text-foreground">Emarosh CRM</h1>
+          <h1 className="text-2xl font-semibold text-foreground">Stratus Properties CRM</h1>
           <p className="text-sm text-muted-foreground mt-1">Sign in to your account</p>
         </div>
 
